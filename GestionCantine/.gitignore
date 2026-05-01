@@ -1,0 +1,30 @@
+# Répertoires à ignorer
+bin/
+target/
+.classpath
+.project
+.settings/
+*.class
+*.log
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Logs
+logs/
+
+# Maven
+dependency-reduced-pom.xml
+pom.xml.tag
+pom.xml.releaseBackup
+release.properties
